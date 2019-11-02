@@ -1,0 +1,12 @@
+.header {
+  background-image: url("./header.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 1300px;
+}
+@media screen and (max-width: 768px) {
+  .header {
+    min-height: 650px;
+  }
+}
