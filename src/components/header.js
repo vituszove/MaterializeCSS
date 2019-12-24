@@ -84,7 +84,11 @@ class Header extends Component {
             </ul>{" "}
           </div>
         </nav>
-        <h1>Front-end Developer</h1>
+        <div className="landing-section">
+          <div className="landing-inner">
+            <h1 className="white-text center">Web Developer</h1>
+          </div>
+        </div>
       </header>
     );
   }
