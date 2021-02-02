@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68e2006ecb7e548267132788232bf602",
+    "revision": "157f0721b24e0464e7be99e6671e3353",
     "url": "/MaterializeCSS/index.html"
   },
   {
-    "revision": "45cc0b2b431eafc8a423",
-    "url": "/MaterializeCSS/static/css/2.7d36abf2.chunk.css"
+    "revision": "4800a322e97dd2bbc94d",
+    "url": "/MaterializeCSS/static/css/2.8bed955a.chunk.css"
   },
   {
     "revision": "7ee171ca69dbe676b57c",
     "url": "/MaterializeCSS/static/css/main.a2d96496.chunk.css"
   },
   {
-    "revision": "45cc0b2b431eafc8a423",
-    "url": "/MaterializeCSS/static/js/2.a8dd3ffb.chunk.js"
+    "revision": "4800a322e97dd2bbc94d",
+    "url": "/MaterializeCSS/static/js/2.4cddf8cb.chunk.js"
   },
   {
     "revision": "7ee171ca69dbe676b57c",
