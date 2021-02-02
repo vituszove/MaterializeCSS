@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "157f0721b24e0464e7be99e6671e3353",
+    "revision": "811dbf2c856d59104e2891d8299b6b4f",
     "url": "/MaterializeCSS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MaterializeCSS/static/css/2.8bed955a.chunk.css"
   },
   {
-    "revision": "7ee171ca69dbe676b57c",
+    "revision": "1b7114f298303fe91b35",
     "url": "/MaterializeCSS/static/css/main.a2d96496.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MaterializeCSS/static/js/2.4cddf8cb.chunk.js"
   },
   {
-    "revision": "7ee171ca69dbe676b57c",
-    "url": "/MaterializeCSS/static/js/main.c856d10b.chunk.js"
+    "revision": "1b7114f298303fe91b35",
+    "url": "/MaterializeCSS/static/js/main.a5c89ff3.chunk.js"
   },
   {
     "revision": "5e5ae778d7ae8fddf828",
