@@ -24,7 +24,7 @@ class PhotoGrid extends Component {
           <div className="col s12 l4">
             <img
               src={photo1}
-              alt="Some Photo"
+              alt="portfolio"
               className="responsive-img materialboxed"
             />
           </div>
@@ -42,7 +42,7 @@ class PhotoGrid extends Component {
           <div className="col s12 l4 push-l7 offset-l1">
             <img
               src={photo1}
-              alt="Some Photo"
+              alt="portfolio"
               className="responsive-img materialboxed"
             />
           </div>
@@ -60,7 +60,7 @@ class PhotoGrid extends Component {
           <div className="col s12 l4">
             <img
               src={photo1}
-              alt="Some Photo"
+              alt="portfolio"
               className="responsive-img materialboxed"
             />
           </div>
