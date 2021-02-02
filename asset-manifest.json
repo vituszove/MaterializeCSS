@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MaterializeCSS/static/css/main.a2d96496.chunk.css",
+    "main.js": "/MaterializeCSS/static/js/main.c856d10b.chunk.js",
+    "main.js.map": "/MaterializeCSS/static/js/main.c856d10b.chunk.js.map",
+    "runtime-main.js": "/MaterializeCSS/static/js/runtime-main.e0be17aa.js",
+    "runtime-main.js.map": "/MaterializeCSS/static/js/runtime-main.e0be17aa.js.map",
+    "static/css/2.7d36abf2.chunk.css": "/MaterializeCSS/static/css/2.7d36abf2.chunk.css",
+    "static/js/2.a8dd3ffb.chunk.js": "/MaterializeCSS/static/js/2.a8dd3ffb.chunk.js",
+    "static/js/2.a8dd3ffb.chunk.js.map": "/MaterializeCSS/static/js/2.a8dd3ffb.chunk.js.map",
+    "index.html": "/MaterializeCSS/index.html",
+    "precache-manifest.211662fe21e70d81b9dbd903c3d65263.js": "/MaterializeCSS/precache-manifest.211662fe21e70d81b9dbd903c3d65263.js",
+    "service-worker.js": "/MaterializeCSS/service-worker.js",
+    "static/css/2.7d36abf2.chunk.css.map": "/MaterializeCSS/static/css/2.7d36abf2.chunk.css.map",
+    "static/css/main.a2d96496.chunk.css.map": "/MaterializeCSS/static/css/main.a2d96496.chunk.css.map",
+    "static/media/header.module.css": "/MaterializeCSS/static/media/header.dace5168.png",
+    "static/media/parallaxone.jpg": "/MaterializeCSS/static/media/parallaxone.edd6b4c5.jpg",
+    "static/media/photo1.png": "/MaterializeCSS/static/media/photo1.e8668609.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0be17aa.js",
+    "static/css/2.7d36abf2.chunk.css",
+    "static/js/2.a8dd3ffb.chunk.js",
+    "static/css/main.a2d96496.chunk.css",
+    "static/js/main.c856d10b.chunk.js"
+  ]
+}
