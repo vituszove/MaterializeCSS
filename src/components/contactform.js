@@ -54,12 +54,6 @@ class ContactForm extends Component {
                 <p>Service required...</p>
                 <p>
                   <label>
-                    <input type="checkbox" /> <span>Graphic Design</span>
-                  </label>
-                </p>
-
-                <p>
-                  <label>
                     <input type="checkbox" /> <span>Web Design</span>
                   </label>
                 </p>
