@@ -36,7 +36,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="!#" className="grey-text text-lighten-3">
-                  Instragram
+                  Instagram
                 </a>
               </li>
             </ul>
