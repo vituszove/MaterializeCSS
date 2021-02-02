@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8effcfcb30a098936f42a3a44bbd13ef",
+    "revision": "52b4ccb4d6e22fc1dd8d448218521662",
     "url": "/MaterializeCSS/index.html"
   },
   {
